@@ -1,0 +1,11 @@
+exports[`test snapshots are awesome 1`] = `
+<input
+  autoFocus="true"
+  className=""
+  onBlur={[Function]}
+  onChange={[Function]}
+  onKeyDown={[Function]}
+  placeholder={undefined}
+  type="text"
+  value="" />
+`;

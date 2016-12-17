@@ -1,0 +1,12 @@
+{
+  "extends": "airbnb",
+
+  "env": {
+    "mocha": true
+  },
+
+  "rules": {
+    "semi": [2, "never"],
+    "react/prefer-stateless-function": 0
+  }
+}

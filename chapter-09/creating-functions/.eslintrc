@@ -1,0 +1,9 @@
+{
+  "extends": "airbnb",
+
+  "rules": {
+    "semi": [2, "never"],
+    "global-require": 0,
+    "react/prefer-stateless-function": 0
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "extends": "airbnb",
+
+  "parserOptions": {
+    "ecmaVersion": 8
+  },
+
+  "rules": {
+    "semi": [2, "never"]
+  }
+}

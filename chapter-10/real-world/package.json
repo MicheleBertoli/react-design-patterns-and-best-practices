@@ -1,0 +1,26 @@
+{
+  "name": "react-design-patterns-and-best-practices",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "devDependencies": {
+    "babel-jest": "^17.0.0",
+    "babel-plugin-transform-class-properties": "^6.18.0",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "enzyme": "^2.6.0",
+    "jest": "^17.0.0",
+    "react-addons-test-utils": "^15.3.2",
+    "react-test-renderer": "^15.3.2"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
